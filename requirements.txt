@@ -1,0 +1,4 @@
+aiohttp
+discord
+opus-api
+discord.py
